@@ -9,3 +9,6 @@ h1{
 img{
   align-self: center;
 }
+nav a{
+  padding: 10 0 10 0;
+}
