@@ -29,3 +29,7 @@ margin:auto;
 #details{
   display: block;
 }
+#details div{
+  display: block;
+  float: left;
+}
