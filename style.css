@@ -6,9 +6,13 @@ body {
 h1{
   text-align: center;
 }
-img{
-  align-self: center;
-}
+
+
 nav a{
   padding: 0 10px 0 10px;
+}
+#featured-property{
+  align-self: center;
+  text-align: center;
+
 }
