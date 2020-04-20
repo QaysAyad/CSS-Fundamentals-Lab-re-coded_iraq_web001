@@ -14,10 +14,11 @@ nav a{
 #featured-property{
   align-self: center;
 margin: auto;
-  text-align: center;
 
+}
 
-    font-size: small;
+figcaption{
+  font-size: small;
     text-align: center;
 
 }
